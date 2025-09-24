@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Lab5 PhamChiCuong SE173588</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Đăng nhập tài khoản</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="not_account_text">Chưa có tài khoản? Đăng ký</string>
+    <string name="sign_up">Đăng kí tài khoản</string>
+
+    <!-- Sign Up Screen -->
+    <string name="signup_form_title">Sign Up</string>
+    <string name="confirm_password_hint">Xác nhận mật khẩu</string>
+    <string name="or_text">Hoặc</string>
+    <string name="have_account">Đã có tài khoản? chọn Đăng nhập</string>
+    <string name="relogin_button_text">Đăng nhập</string>
+
+    <string name="log_out">Đăng xuất</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_message">Chào mừng đến với ứng dụng!</string>
+    <string name="welcome">Welcome</string>
+    <string name="delete_account">Xóa tài khoản</string>
+
+    <!--Forgot_Password-->
+    <string name="give_password">Lấy mật khẩu</string>
+
+
+    <!-- FPT Logo -->
+    <string name="fpt_logo_description">FPT Logo</string>
+
+    <!-- Error messages -->
+    <string name="invalid_username">Email không hợp lệ</string>
+    <string name="invalid_password">Mật khẩu phải có ít nhất 6 ký tự</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+</resources>
