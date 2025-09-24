@@ -20,3 +20,17 @@
 1. Clone repo
    ```bash
    git clone https://github.com/Cuongdevcode/AndroidLoginSQLiteDemo.git
+  
+2. Mở Android Studio → Open Project
+3. Kết nối AVD hoặc thiết bị thật
+4 . Run ▶
+
+## Công nghệ
+
+- Java, Android
+
+- SQLite (SQLiteOpenHelper)
+
+- SharedPreferences
+
+- Material Components (Button, EditText, TextView)
